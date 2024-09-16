@@ -16,4 +16,16 @@ Packages :
 npm i @react-three/fiber react-three/drei three
 ```
 
+## How to clone 
+
+```sh
+git clone <url>
+```
+
+```sh
+npm i
+```
+```sh
+npm run dev
+```
   
