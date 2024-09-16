@@ -7,3 +7,13 @@
 - TurboSquid
 - PolyHaven
 
+Packages : 
+- react-three/fiber
+- react-three/drei
+- three
+
+```sh
+npm i @react-three/fiber react-three/drei three
+```
+
+  
