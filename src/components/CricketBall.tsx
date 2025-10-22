@@ -4,7 +4,7 @@ import { useRef } from "react";
 
 
 function CricketBallModel(){
-    const {scene} = useGLTF("./models/Cleatrip 3js.glb");
+    const {scene} = useGLB("./models/Cleatrip 3js.glb");
     const ballRef = useRef();
 
     // Rotate the ball on every frame
